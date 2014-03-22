@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 flag
 ====
 
@@ -20,3 +21,6 @@ asd team
 Push to this for flag.
 hi all
 
+=======
+I'm going to sleep. Tired of all these PR and issues.
+>>>>>>> e41d20723c06c4ca687fe7c6ee296534d0251c61
