@@ -1,6 +1,7 @@
 flag
 ====
 
+<<<<<<< HEAD
 hey folks 
 +
 +
@@ -14,4 +15,8 @@ leo_light
 
 asd team
 
+=======
+>>>>>>> 40c49be8ef7f3049510c64915f7fe8c3a368ab09
 Push to this for flag.
+hi all
+
